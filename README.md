@@ -16,6 +16,11 @@ realtime stitching
 blog
 http://study.marearts.com/2015/02/real-time-stitching-multi-video-to-one.html
 
+
+about costumizing source code and Stitching class here :
+http://study.marearts.com/2016/10/real-time-n-camera-stitching-class.html
+
+
 youtube
  - https://www.youtube.com/watch?v=e6ociYYQS4U
  - https://www.youtube.com/watch?v=jP1Y8nd0mQc
